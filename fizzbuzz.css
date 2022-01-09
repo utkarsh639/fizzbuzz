@@ -1,0 +1,23 @@
+body{
+    height: 200px;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+    background-repeat: no-repeat;
+}
+#text{
+    height:30px;
+    margin-left: 600px;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+#btn{
+    height:35px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: green;
+
+}
+#demo{
+    margin-left: 650px;
+    margin-top:10px;
+}
